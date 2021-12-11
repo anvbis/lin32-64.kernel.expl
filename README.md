@@ -2,7 +2,7 @@
 
  - [x] Return to User-space
  - [ ] Escaping Seccomp Jails
- - [ ] Bypassing SMEP
+ - [x] Bypassing SMEP
  - [x] Bypassing SMAP & KPTI
  - [ ] Stack Pivoting
  - [x] Overwriting Modprobe Path
