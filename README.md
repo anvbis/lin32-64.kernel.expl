@@ -5,6 +5,6 @@
  - [x] Bypassing SMAP & KPTI
  - [x] Stack Pivoting
  - [x] Overwriting Modprobe Path
- - [ ] Bypassing KASLR
+ - [x] Bypassing KASLR
  - [ ] Bypassing FG-KASLR
  - [x] Escaping Seccomp Jails
