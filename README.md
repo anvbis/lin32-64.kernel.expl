@@ -6,5 +6,4 @@
  - [x] Stack Pivoting
  - [x] Overwriting Modprobe Path
  - [x] Bypassing KASLR
- - [ ] Bypassing FG-KASLR
  - [x] Escaping Seccomp Jails
