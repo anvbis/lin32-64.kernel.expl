@@ -8,4 +8,5 @@
  - [x] Stack Pivoting
  - [x] Overwriting Modprobe Path
  - [x] Bypassing KASLR
- - [x] Escaping Seccomp Jails
+ - [ ] Return to Direct-mapped Memory w/ Shellcode
+ - [ ] Return to Direct-mapped Memory w/ ROP
